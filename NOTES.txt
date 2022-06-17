@@ -1,0 +1,17 @@
+
+
+
+setup
+make sure you have installed chrome browser and chromedriver that supports your chrome version
+specify ( change) the location of chromedriver and chrome binary according to your setup
+install required packages
+
+run
+python3 project1.py
+python3 project2.py
+scrapy runspider project3.py
+
+outputs
+all are csv files 
+
+I haven't run project4 because docker is not setup on my computer
